@@ -31,8 +31,7 @@
 
 ### Projects
 
-* [x] [Contact Form](fill in)
-* [x] [Intro Component with Signup Form](fill in) 
+* [x] [QR Code Component](https://jazzy-palmier-3f034d.netlify.app/) 
 
 </details>
 
