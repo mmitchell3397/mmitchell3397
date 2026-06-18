@@ -48,7 +48,7 @@
 ### Projects
 
 * [x] [Product Preview Card](https://sunny-lolly-33ec97.netlify.app/)
-* [x] [Testimonials Grid Section](https://jazzy-palmier-3f034d.netlify.app/)  
+* [x] [Testimonials Grid Section](https://cosmic-llama-47649d.netlify.app/)  
 
 ### Responsive Design
 
