@@ -134,8 +134,6 @@
 ### Projects
 
 * [Contact Form](https://jazzy-palmier-3f034d.netlify.app/)
-* [Newsletter Sign Up with Success Message](http://go-to-here.com/)
-* [Intro Component with Sign Up Form](http://go-to-here.com) 
 
 </details>
 
