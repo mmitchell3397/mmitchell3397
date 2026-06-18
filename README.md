@@ -1,6 +1,6 @@
 # Hi, I'm Michael 👨‍💻
 
-### Full-Stack Developer focused on responsive web applications and modern web technologies.
+### A Full-Stack Developer focused on responsive web applications and modern web technologies.
 
 ---
 
