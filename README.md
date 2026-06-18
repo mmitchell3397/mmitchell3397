@@ -45,6 +45,11 @@
 * [x] Positioning
 * [x] Box Model
 
+### Projects
+
+* [x] [Product Preview Card](https://jazzy-palmier-3f034d.netlify.app/)
+* [x] [Testimonials Grid Section](https://jazzy-palmier-3f034d.netlify.app/)  
+
 ### Responsive Design
 
 * [x] Mobile-First Development
@@ -128,7 +133,7 @@
 
 ### Projects
 
-* [ ] [JS Project](fill in)
+* [ ] [Contact Form](https://jazzy-palmier-3f034d.netlify.app/)
 * [ ] [JS Project](fill in) 
 
 </details>
