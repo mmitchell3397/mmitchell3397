@@ -126,14 +126,15 @@
 
 ### Async JavaScript
 
-* [ ] Promises
-* [ ] Async/Await
-* [ ] Fetch API
-* [ ] Local Storage
+* [x] Promises
+* [x] Async/Await
+* [x] Fetch API
 
 ### Projects
 
 * [Contact Form](https://contact-form-main.mmitchell3397.workers.dev/)
+* [Advice Generator App](http://put-site-here.com/)
+* [IP Address Tracker](http://put-site-here.com/)
 
 </details>
 
