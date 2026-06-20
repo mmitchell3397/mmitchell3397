@@ -96,7 +96,6 @@
 
 * [x] Arrow Functions
 * [x] Template Literals
-* [x] Destructuring
 * [x] Modules
 
 ### DOM Manipulation
@@ -124,9 +123,9 @@
 
 ### Async JavaScript
 
-* [x] Promises
-* [x] Async/Await
-* [x] Fetch API
+* [ ] Promises
+* [ ] Async/Await
+* [ ] Fetch API
 
 ### Projects
 
