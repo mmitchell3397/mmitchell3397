@@ -147,6 +147,8 @@
 * [ ] State
 * [ ] Hooks
 * [ ] Routing
+* [ ] Forms
+* [ ] State Management
 
 </details>
 
