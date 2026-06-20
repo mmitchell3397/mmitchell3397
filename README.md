@@ -197,4 +197,10 @@
 
 # Projects      | Demos      | Source
 
+| Project | Demo | Source |
+|----------|----------|----------|
+| QR Code Component | Live Site | GitHub |
+| News Homepage | Live Site | GitHub |
+| Product Preview Card | Live Site | GitHub |
+
 
