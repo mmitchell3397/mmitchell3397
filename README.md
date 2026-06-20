@@ -206,9 +206,9 @@
 | Newsletter Sign Up with Success Message | [Live Site](https://phenomenal-florentine-eff2ec.netlify.app/) | [GitHub](https://github.com/mmitchell3397/Newsletter-sign-up-with-success-message-main) |
 | Intro Component with Sign Up Form | [Live Site](https://elaborate-gumdrop-b6fff0.netlify.app/) | [GitHub](https://github.com/mmitchell3397/Intro-component-with-signup-form-master) |
 | Contact Form | [Live Site](https://contact-form-main.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Contact-form-main) |
-| Interactive Rating Component | [Live Site]() | [GitHub](https://github.com/mmitchell3397/Interactive-rating-component-main) |
-| Age Calculator App | [Live Site]() | [GitHub](https://github.com/mmitchell3397/Age-calculator-app-main) |
-| Tip Calculator App | [Live Site]() | [GitHub](https://github.com/mmitchell3397/Tip-calculator-app-main) |
+| Interactive Rating Component | [Live Site](https://mute-sun-5d2f.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Interactive-rating-component-main) |
+| Age Calculator App | [Live Site](https://jolly-band-d75b.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Age-calculator-app-main) |
+| Tip Calculator App | [Live Site](https://still-term-d662.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Tip-calculator-app-main) |
 | Advice Generator App | [Live Site]() | [GitHub](https://github.com/mmitchell3397/Advice-generator-app-main) |
 | IP Address Tracker | [Live Site]() | [GitHub]() |
 
