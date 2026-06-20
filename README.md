@@ -195,6 +195,6 @@
 * Full-Stack Architecture
 * Responsive Web Applications
 
-# Projects      | # Demos      | # Source
+# Projects      | Demos      | Source
 
 
