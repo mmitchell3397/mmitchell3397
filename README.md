@@ -17,6 +17,11 @@
 * [x] Accessibility Basics
 * [x] Labels & Inputs
 
+### Projects
+
+* [x] [QR Code Component](https://jazzy-palmier-3f034d.netlify.app/) 
+
+
 ### Forms
 
 * [x] Text Inputs
@@ -26,10 +31,6 @@
 * [x] Radio Buttons
 * [x] Required Fields
 * [x] Client-Side Validation
-
-### Projects
-
-* [x] [QR Code Component](https://jazzy-palmier-3f034d.netlify.app/) 
 
 </details>
 
