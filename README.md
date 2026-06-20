@@ -152,8 +152,6 @@
 
 </details>
 
----
-
 # Backend Development
 
 <details>
@@ -174,8 +172,6 @@
 
 </details>
 
----
-
 # Full-Stack Development
 
 <details>
@@ -191,8 +187,6 @@
 
 </details>
 
----
-
 # Current Focus
 
 * React
@@ -200,5 +194,7 @@
 * API Development
 * Full-Stack Architecture
 * Responsive Web Applications
+
+# Projects      | # Demos      | # Source
 
 
