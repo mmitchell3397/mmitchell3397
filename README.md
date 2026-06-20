@@ -194,13 +194,23 @@
 * API Development
 * Full-Stack Architecture
 * Responsive Web Applications
-
-# Projects      | Demos      | Source
+---
 
 | Project | Demo | Source |
 |----------|----------|----------|
-| QR Code Component | Live Site | GitHub |
-| News Homepage | Live Site | GitHub |
-| Product Preview Card | Live Site | GitHub |
+| QR Code Component | [Live Site](https://jazzy-palmier-3f034d.netlify.app/) | [GitHub](https://github.com/mmitchell3397/QR-Code-Component-Main-Repo) |
+| Product Preview Card Component | [Live Site](https://sunny-lolly-33ec97.netlify.app/) | [GitHub](https://github.com/mmitchell3397/Product-preview-card-component-main) |
+| Social Links Profile | [Live Site](https://spontaneous-starlight-378cef.netlify.app/) | [GitHub](https://github.com/mmitchell3397/Social-links-profile-main) |
+| Single Price Grid Component | [Live Site](https://deft-kashata-94b7ff.netlify.app/) | [GitHub](https://github.com/mmitchell3397/Single-price-grid-component-master) |
+| Testimonials Grid Section | [Live Site](https://cosmic-llama-47649d.netlify.app/) | [GitHub](https://github.com/mmitchell3397/Testimonials-grid-section-main) |
+| Newsletter Sign Up with Success Message | [Live Site](https://phenomenal-florentine-eff2ec.netlify.app/) | [GitHub](https://github.com/mmitchell3397/Newsletter-sign-up-with-success-message-main) |
+| Intro Component with Sign Up Form | [Live Site](https://elaborate-gumdrop-b6fff0.netlify.app/) | [GitHub](https://github.com/mmitchell3397/Intro-component-with-signup-form-master) |
+| Contact Form | [Live Site](https://contact-form-main.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Contact-form-main) |
+| Interactive Rating Component | [Live Site]() | [GitHub](https://github.com/mmitchell3397/Interactive-rating-component-main) |
+| Age Calculator App | [Live Site]() | [GitHub](https://github.com/mmitchell3397/Age-calculator-app-main) |
+| Tip Calculator App | [Live Site]() | [GitHub](https://github.com/mmitchell3397/Tip-calculator-app-main) |
+| Advice Generator App | [Live Site]() | [GitHub](https://github.com/mmitchell3397/Advice-generator-app-main) |
+| IP Address Tracker | [Live Site]() | [GitHub]() |
+
 
 
