@@ -13,11 +13,9 @@
 
 * [x] Page Structure
 * [x] Headings
-* [x] Navigation
 * [x] Forms
 * [x] Accessibility Basics
 * [x] Labels & Inputs
-* [x] Fieldsets & Legends
 
 ### Forms
 
@@ -65,13 +63,13 @@
 * [x] Transitions
 * [x] Hover States
 * [x] Focus States
+* [x] Active States 
 
 ### Forms & Components
 
 * [x] Custom Form Styling
 * [x] Error States
 * [x] Success States
-* [x] Accessible Focus Indicators
 
 </details>
 
@@ -98,7 +96,6 @@
 * [x] Arrow Functions
 * [x] Template Literals
 * [x] Destructuring
-* [x] Spread Operator
 * [x] Modules
 
 ### DOM Manipulation
@@ -133,6 +130,7 @@
 ### Projects
 
 * [Contact Form](https://contact-form-main.mmitchell3397.workers.dev/)
+* [Tip Calculator](http://put-site-here.com/)
 * [Advice Generator App](http://put-site-here.com/)
 * [IP Address Tracker](http://put-site-here.com/)
 
