@@ -177,7 +177,8 @@
 * API Development
 * Full-Stack Architecture
 * Responsive Web Applications
----
+
+# Completed Projects List
 
 | Project | Demo | Source |
 |----------|----------|----------|
