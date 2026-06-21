@@ -114,8 +114,8 @@
 ### Async JavaScript
 
 * [ ] Promises
-* [ ] Async/Await
-* [ ] Fetch API
+* [x] Async/Await
+* [x] Fetch API
 
 </details>
 
@@ -193,8 +193,8 @@
 | Interactive Rating Component | [Live Site](https://mute-sun-5d2f.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Interactive-rating-component-main) |
 | Age Calculator App | [Live Site](https://jolly-band-d75b.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Age-calculator-app-main) |
 | Tip Calculator App | [Live Site](https://still-term-d662.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Tip-calculator-app-main) |
-| Advice Generator App | [Live Site]() | [GitHub](https://github.com/mmitchell3397/Advice-generator-app-main) |
-| IP Address Tracker | [Live Site]() | [GitHub]() |
+| Advice Generator App | [Live Site](https://nameless-bread-b28a.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Advice-generator-app-main) |
+| Weather App | [Live Site]() | [GitHub]() |
 
 
 
