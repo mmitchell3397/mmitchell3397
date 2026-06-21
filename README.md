@@ -17,11 +17,6 @@
 * [x] Accessibility Basics
 * [x] Labels & Inputs
 
-### Projects
-
-* [x] [QR Code Component](https://jazzy-palmier-3f034d.netlify.app/) 
-
-
 ### Forms
 
 * [x] Text Inputs
@@ -43,11 +38,6 @@
 * [x] CSS Grid
 * [x] Positioning
 * [x] Box Model
-
-### Projects
-
-* [x] [Product Preview Card](https://sunny-lolly-33ec97.netlify.app/)
-* [x] [Testimonials Grid Section](https://cosmic-llama-47649d.netlify.app/)  
 
 ### Responsive Design
 
@@ -126,13 +116,6 @@
 * [ ] Promises
 * [ ] Async/Await
 * [ ] Fetch API
-
-### Projects
-
-* [Contact Form](https://contact-form-main.mmitchell3397.workers.dev/)
-* [Tip Calculator](http://put-site-here.com/)
-* [Advice Generator App](http://put-site-here.com/)
-* [IP Address Tracker](http://put-site-here.com/)
 
 </details>
 
