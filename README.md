@@ -113,7 +113,6 @@
 
 ### Async JavaScript
 
-* [ ] Promises
 * [x] Async/Await
 * [x] Fetch API
 
