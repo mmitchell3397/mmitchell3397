@@ -193,7 +193,7 @@
 | Age Calculator App | [Live Site](https://jolly-band-d75b.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Age-calculator-app-main) |
 | Tip Calculator App | [Live Site](https://still-term-d662.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Tip-calculator-app-main) |
 | Advice Generator App | [Live Site](https://nameless-bread-b28a.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Advice-generator-app-main) |
-| Weather App | [Live Site]() | [GitHub](https://github.com/mmitchell3397/Weather-app-main) |
+| Weather App | [Live Site](https://bold-wood-ac53.mmitchell3397.workers.dev/) | [GitHub](https://github.com/mmitchell3397/Weather-app-main) |
 
 
 
