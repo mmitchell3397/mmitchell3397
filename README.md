@@ -144,13 +144,15 @@
 * [x] Project Setup
 * [x] Development Environment
 
-### In Progress
+### Completed
 
-* [ ] Controllers
-* [ ] APIs
-* [ ] Entity Framework Core
-* [ ] Authentication
-* [ ] Authorization
+* [x] Controllers
+* [x] APIs
+* [x] Entity Framework Core
+* [x] Authentication
+* [x] Authorization
+* [x] Identity for ASP.NET Core
+* [x] JWT 
 
 </details>
 
